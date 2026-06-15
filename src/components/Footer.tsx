@@ -10,7 +10,7 @@ const Footer = () => {
           <span className="font-display text-sm font-bold text-gradient-fire">TwinFlame Finance</span>
         </div>
         <p className="text-xs text-muted-foreground">
-          © 2026 TwinFlame Finance. All rights reserved.
+          © 2026 Evo Technology Group, LLC. All rights reserved.
         </p>
         <div className="flex gap-6">
           <a href="#" className="text-xs text-muted-foreground transition-colors hover:text-foreground">
